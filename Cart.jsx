@@ -1,0 +1,1 @@
+const Cart = () => <h1>Cart Page (React)</h1>; export default Cart;

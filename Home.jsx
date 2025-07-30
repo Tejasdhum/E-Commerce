@@ -1,0 +1,1 @@
+const Home = () => <h1>Home Page (React)</h1>; export default Home;

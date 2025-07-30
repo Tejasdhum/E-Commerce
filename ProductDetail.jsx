@@ -1,0 +1,1 @@
+const ProductDetail = () => <h1>Product Detail Page (React)</h1>; export default ProductDetail;
